@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chithanh1012.github.io/resources-ctozzq/sitemap.xml
